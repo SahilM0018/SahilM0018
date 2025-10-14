@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sam 👋</h1>
+<h1 align="center">Hi, I'M SAHIL👋</h1>
 <p align="center">
   💻 SQL Developer | 📊 Aspiring Data Analyst | 🔍 Data Enthusiast
 </p>
