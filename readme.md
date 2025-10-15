@@ -30,8 +30,9 @@ I'm passionate about transforming raw data into meaningful insights using SQL an
 ### 🛍️ [Retail Sales SQL Project](https://github.com/sam0703899/Retail-Sales---SQL-Project)
 > Designed a normalized retail database, inserted sample sales data, and wrote analytical queries to uncover sales trends, top customers, and product performance.
 
+### 🛍️[Library System SQL Project](https://github.com/sam0703899/Retail-Sales---SQL-Project)
+
 ### 📦 Upcoming Projects
-- [ ] E-commerce order trend analysis  
 - [ ] Customer churn detection  
 - [ ] Revenue dashboard by product category  
 
