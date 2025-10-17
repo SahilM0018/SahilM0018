@@ -53,7 +53,7 @@ I'm passionate about transforming raw data into meaningful insights using SQL an
 ## 📬 Contact Me
 
 - 📧 Email: [sahilmaragaje007@gmail.com](mailto:sahilmaragaje007@gmail.com)
-- 🐙 GitHub: [@sam0703899](https://github.com/sam0703899)
+- 🐙 GitHub: [@SahilM0018](https://github.com/sam0703899)
 - 🌐 Portfolio: Coming soon
 
 ---
